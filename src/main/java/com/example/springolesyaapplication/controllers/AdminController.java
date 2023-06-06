@@ -1,7 +1,7 @@
-package com.example.springsecurityapplication.controllers;
+package com.example.springolesyaapplication.controllers;
 
-import com.example.springsecurityapplication.models.Product;
-import com.example.springsecurityapplication.services.ProductService;
+import com.example.springolesyaapplication.models.Product;
+import com.example.springolesyaapplication.services.ProductService;
 import lombok.AllArgsConstructor;
 import org.springframework.http.ResponseEntity;
 import org.springframework.stereotype.Controller;

@@ -1,10 +1,9 @@
-package com.example.springsecurityapplication.services;
+package com.example.springolesyaapplication.services;
 
-import com.example.springsecurityapplication.models.Product;
-import com.example.springsecurityapplication.repositories.ProductRepository;
+import com.example.springolesyaapplication.models.Product;
+import com.example.springolesyaapplication.repositories.ProductRepository;
 import lombok.AllArgsConstructor;
 import org.springframework.stereotype.Service;
-import org.springframework.transaction.annotation.Transactional;
 
 import java.util.List;
 

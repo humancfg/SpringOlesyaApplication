@@ -1,4 +1,4 @@
-package com.example.springsecurityapplication.util;
+package com.example.springolesyaapplication.util;
 
 import org.springframework.stereotype.Component;
 import org.springframework.validation.Errors;

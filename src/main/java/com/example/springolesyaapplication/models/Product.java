@@ -1,4 +1,4 @@
-package com.example.springsecurityapplication.models;
+package com.example.springolesyaapplication.models;
 
 import jakarta.persistence.*;
 import jakarta.validation.constraints.Min;

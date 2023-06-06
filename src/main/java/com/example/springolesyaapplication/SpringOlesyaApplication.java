@@ -1,13 +1,13 @@
-package com.example.springsecurityapplication;
+package com.example.springolesyaapplication;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class SpringSecurityApplication {
+public class SpringOlesyaApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(SpringSecurityApplication.class, args);
+        SpringApplication.run(SpringOlesyaApplication.class, args);
     }
 
 }
